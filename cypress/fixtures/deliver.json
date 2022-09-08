@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Cintia Okado",
+        "cpf": "12345678910",
+        "email": "cintiaokado@gmail.com",
+        "whatsapp": "11912340000",
+        "address": {
+            "postalcode": "04345020",
+            "street": "Rua Tenente Ubirajara Monory",
+            "number": "136",
+            "details": "apto 41",
+            "district": "Jabaquara",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Erick Okado",
+        "cpf": "123456789AA",
+        "email": "erick@gmail.com",
+        "whatsapp": "11912341234",
+        "address": {
+            "postalcode": "04345020",
+            "street": "Rua Tenente Ubirajara Monory",
+            "number": "136",
+            "details": "apto 41",
+            "district": "Jabaquara",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Cintia Okado",
+        "cpf": "12345678910",
+        "email": "cintiaokado.com",
+        "whatsapp": "11912340000",
+        "address": {
+            "postalcode": "04345020",
+            "street": "Rua Tenente Ubirajara Monory",
+            "number": "136",
+            "details": "apto 41",
+            "district": "Jabaquara",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
